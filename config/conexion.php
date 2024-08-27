@@ -2,9 +2,9 @@
 
     class Conexion
     {
-        private $server = "localhost";
+        private $server = "";
         private $db = "webapp";
-        private $user = "root";
+        private $user = "";
         private $password = "";
         
         protected $conexion;
