@@ -3,7 +3,7 @@
 
 ## **WebAppAsistencias ✍🏻**
 
-Es una aplicación web desarrollada con PHP, siguiendo la arquitectura MVC. Diseñada para optimizar la gestión de asistencia estudiantil, permite al profesor y/o administrador registrar de forma detallada las asistencias, faltas y justificaciones. La aplicación genera reportes personalizados en formato PDF y ofrece una interfaz intuitiva construida con JavaScript y Bootstrap, brindando una experiencia de usuario moderna y responsiva.
+Es una aplicación web desarrollada con PHP, siguiendo la arquitectura MVC. Diseñada para optimizar la gestión de asistencias, permite al administrador registrar de forma detallada las asistencias, faltas y justificaciones. La aplicación genera reportes personalizados en formato PDF y ofrece una interfaz intuitiva construida con JavaScript y Bootstrap, brindando una experiencia de usuario moderna y responsiva.
 
 
 ## **Introducción**
@@ -63,13 +63,21 @@ git clone https://github.com/Adri13A/WebAppAsistencias.git
 
 
 ## **Imagenes**
->Inicio ![webAppAsistencias](https://github.com/user-attachments/assets/c6eda8fe-dd37-4033-a6d8-36cf59284b29)
+### Inicio
+> ![webAppAsistencias](https://github.com/user-attachments/assets/c6eda8fe-dd37-4033-a6d8-36cf59284b29)
 
->Listado de Asistencias ![webAppAsistencias-Asistencias](https://github.com/user-attachments/assets/bd054869-3c03-4bdd-ad1c-07650e6f2bcd)
+### Listado de Asistencias
+> ![webAppAsistencias-Asistencias](https://github.com/user-attachments/assets/bd054869-3c03-4bdd-ad1c-07650e6f2bcd)
 
->Usuarios ![webAppAsistencias-Usuarios](https://github.com/user-attachments/assets/2601a664-9f15-4502-991c-f59d04040272)
+### Usuarios
+> ![webAppAsistencias-Usuarios](https://github.com/user-attachments/assets/2601a664-9f15-4502-991c-f59d04040272)
 
->Repostes PDF ![webAppAsistencias-RepostesPDF](https://github.com/user-attachments/assets/84c05360-a115-4d41-a73a-8f0ba6e489b7)
+### Agregar Nuevo Usuario
+> ![webAppAsistencias-AggUsuario](https://github.com/user-attachments/assets/193a4791-c101-4bf8-9a2c-7b3d889039b5)
+
+
+### Repostes PDF
+> ![webAppAsistencias-RepostesPDF](https://github.com/user-attachments/assets/84c05360-a115-4d41-a73a-8f0ba6e489b7)
 
 ## **Licencia**
 
