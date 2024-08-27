@@ -13,14 +13,14 @@ webAppAsistencias se presenta como una solución eficaz para optimizar la gesti�
 
 ## **Tecnologías utilizadas**
 
-- **Backend:** PHP (POO, PDO), MySQL.
+- **Backend:** PHP (POO, PDO), MySQL, TCPDF Library.
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap.
 
 
 ## **Características principales**
 
 1. Registro detallado de asistencias, faltas y justificaciones.
-2. Generación de reportes con graficas en formato PDF.
+2. Generación de reportes con graficas en formato PDF con la librería TCPDF.
 3. Interfaz intuitiva y fácil de usar.
 4. Alta seguridad gracias al uso de PDO para la gestión de la base de datos.
 5. Escalable y adaptable a las diferentes necesidades requeridas.
