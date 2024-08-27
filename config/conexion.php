@@ -3,7 +3,7 @@
     class Conexion
     {
         private $server = "";
-        private $db = "webapp";
+        private $db = "webAppAsistencias";
         private $user = "";
         private $password = "";
         
