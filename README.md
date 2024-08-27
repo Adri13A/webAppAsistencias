@@ -19,6 +19,16 @@ webAppAsistencias se presenta como una solución eficaz para optimizar la gesti�
 
 - **Backend:** PHP (POO, PDO), MySQL, TCPDF Library.
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap.
+<hr>
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
 ## **Características principales**
@@ -89,4 +99,4 @@ webAppAsistencias is released under the MIT License.
 
 ## **Autores**
 
-webAppAsistencias fue creado en 02/02/2024 por **[Adrian Gurrola](https://github.com/Adri13A)**.
+webAppAsistencias fue creado en *02/02/2024* por **[Adrian Gurrola](https://github.com/Adri13A)**.
