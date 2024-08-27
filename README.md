@@ -77,4 +77,4 @@ webAppAsistencias is released under the MIT License.
 
 ## **Autores**
 
-webAppAsistencias fue creado por **[Adrian Gurrola](https://github.com/Adri13A)**.
+webAppAsistencias fue creado por **[Adrian Gurrola](https://github.com/Adri13A) 02/02/2024**.
