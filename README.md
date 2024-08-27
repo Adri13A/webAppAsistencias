@@ -43,7 +43,7 @@ git clone https://github.com/Adri13A/WebAppAsistencias.git
   CREATE DATABASE webAppAsistencias;
   ```
 ### **4. Importar la estructura:**
-- Importa las tablas necesarias del archivo *webApp.sql*
+- Importa las tablas necesarias del archivo *webApp.sql* dentro de la carpeta *config*
 
 ### **5. Configurar el archivo `config.php`:**
 - Edita el archivo `config.php` y establece las credenciales de la base de datos.
