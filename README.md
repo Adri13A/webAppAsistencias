@@ -96,6 +96,8 @@ git clone https://github.com/Adri13A/WebAppAsistencias.git
 ## **Licencia**
 
 webAppAsistencias is released under the MIT License.
+<br>
+
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 
 
