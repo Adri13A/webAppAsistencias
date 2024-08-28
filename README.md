@@ -93,7 +93,7 @@ git clone https://github.com/Adri13A/WebAppAsistencias.git
 ### Repostes PDF
 > ![webAppAsistencias-RepostesPDF](https://github.com/user-attachments/assets/84c05360-a115-4d41-a73a-8f0ba6e489b7)
 
-## **Licencia: MIT**
+## **Licencia**
 
 webAppAsistencias is released under the MIT License.
 <br>
